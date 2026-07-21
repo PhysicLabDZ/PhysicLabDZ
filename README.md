@@ -19,7 +19,7 @@
 ### 📉 [راسم الاهتزاز المهبطي — نسخة 2](https://physiclabdz.github.io/oscilloscope2/)
 نفس المحاكاة بتخطيط محسّن للشاشات الكبيرة.
 
-### 💻 [محوّل الأكواد (CodeExporter)](https://physiclabdz.github.io/codex/)
+### 📈 [راسم الاهتزاز المهبطي — نسخة 1](https://physiclabdz.github.io/oscilloscope1/)### 📈 [راسم الاهتزاز المهبطي — نسخة 1](https://physiclabdz.github.io/oscilloscope1/)### 💻 [محوّل الأكواد (CodeExporter)](https://physiclabdz.github.io/codex/)
 محرر أكواد متعدد اللغات مع تصدير مباشر إلى GitHub.
 
 ---
